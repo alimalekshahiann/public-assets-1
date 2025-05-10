@@ -74,7 +74,7 @@
         {
           "name": "محل تبلیغ شما",
           "price": "تبلیغات",
-          "logo": "https://raw.githubusercontent.com/alimalekshahiann/Bmarz/6b38cbd0ab835d9e7033c30976df21c49c7000a0/Bmarz.svg",
+          "logo": "https://raw.githubusercontent.com/alimalekshahiann/Bmarz/refs/heads/main/bmarzvpn.jpg",
           "faDescription": "اینجا میتواند محل تبلیغ شما باشد",
           "description": "yourAd",
           "downloadLink": "https://example.net",
@@ -143,7 +143,7 @@
         {
           "name": "محل تبلیغ شما",
           "price": "تبلیغات",
-          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/aranex.jpeg",
+          "logo": "https://raw.githubusercontent.com/alimalekshahiann/Bmarz/refs/heads/main/bmarzvpn.jpg",
           "faDescription": "اینجا میتواند محل تبلیغ شما باشد",
           "description": "This could be your advertising space.",
           "downloadLink": "https://example.com",
@@ -176,7 +176,7 @@
         {
           "name": "تبلیغ شما",
           "price": "تبلیغات",
-          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/aranex.jpeg",
+          "logo": "https://raw.githubusercontent.com/alimalekshahiann/Bmarz/refs/heads/main/bmarzvpn.jpg",
           "faDescription": "اینجا میتواند محل تبلیغ شما باشد",
           "description": "This could be your advertising space.",
           "downloadLink": "https://exaple.com",
@@ -211,7 +211,7 @@
         {
           "name": "تبلیغ شما",
           "price": "تبلیغات",
-          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/aranex.jpeg",
+          "logo": "https://raw.githubusercontent.com/alimalekshahiann/Bmarz/refs/heads/main/bmarzvpn.jpg",
           "faDescription": "اینجا میتواند تبلیغ شما باشد",
           "description": "This could be your advertising space.",
           "downloadLink": "https://example.com",
